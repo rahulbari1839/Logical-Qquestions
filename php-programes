@@ -1,8 +1,11 @@
+Here you can check the output: http://rbtemplates.com/php-programes/index.php
 <?php 
 
-
+echo '<H1>Program 1</h1>';
 echo rbtPatternLogic_1($ln = 10);
+echo '<H1>Program 2</h1>';
 echo rbtPatternLogic_2("programingspark");
+echo '<H1>Program 3</h1>';
 echo rbtPatternLogic_3();
 function rbtPatternLogic_1($ln = 5){
 
